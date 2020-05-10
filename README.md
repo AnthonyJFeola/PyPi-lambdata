@@ -5,7 +5,7 @@ Hyperlink removal tool that takes a pandas series of text as an input and return
 
 ## Installation 
 ```py
-pip install lambdata-AnthonyJFeola
+pip install -i https://test.pypi.org/simple/ lambdata-AnthonyJFeola
 ```
 ## USAGE 
 ```py

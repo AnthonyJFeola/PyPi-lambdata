@@ -2,9 +2,9 @@
 Lambda School DSPT5 Unit 3 Sprint 1 Assignment
 
 ## Installation 
-
-TODO
-
+```py
+pip install lambdata-AnthonyJFeola
+```
 ## USAGE 
 ```py
 from lambdata-AnthonyJFeola.hyperlink_handler import remove_hyperlinks

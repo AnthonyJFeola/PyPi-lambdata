@@ -1,6 +1,8 @@
 # lambdata-AnthonyJFeola
 Lambda School DSPT5 Unit 3 Sprint 1 Assignment
 
+Hyperlink removal tool that takes a pandas series of text as an input and returns the text without hyperlinks
+
 ## Installation 
 ```py
 pip install lambdata-AnthonyJFeola

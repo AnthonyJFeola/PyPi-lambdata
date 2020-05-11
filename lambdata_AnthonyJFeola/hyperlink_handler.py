@@ -1,5 +1,6 @@
 import re
 
+
 def remove_hyperlinks(X):
     removed_hyperlinks = []
     X = X.copy()

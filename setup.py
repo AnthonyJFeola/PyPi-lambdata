@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="lambdata-AnthonyJFeola", # the name that you will install via pip
-    version="3.0",
+    version="4.0",
     author="Anthony J Feola",
     author_email="anthonyfeola18@gmail.com",
     description="Hyperlink removal tool",
